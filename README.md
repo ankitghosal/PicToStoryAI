@@ -30,7 +30,7 @@ Execution is divided into 3 parts:
 - A user interface is built using streamlit to enable uploading the image and playing the audio file
   
 
-![Demo 2 : Quality Time Test Image Output](img-audio/qualitytime.jpg)
+![Demo 1: Quality Time Test Image Output](img-audio/qualitytime.jpg)
 You can listen respective audio file of this test image on respective `img-audio` folder 
 
 
@@ -61,7 +61,7 @@ You can listen respective audio file of this test image on respective `img-audio
 - Deployed Gen AI App on streamlit cloud and Hugging Space
 
 ## 🎯 Demo:
-![Demo 2: Couple Hug Test Image Output](img-audio/Couplehug.jpg)
+![Demo 2: Couple Hug Test Image Output](img-audio/couplehug.jpg)
 
 ## ▶️Installation
 
