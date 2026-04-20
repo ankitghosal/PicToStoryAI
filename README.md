@@ -1,5 +1,5 @@
 # 🖼️Image to Speech GenAI Tool Using LLM 🌟♨️
-AI tool that generates an Audio short story based on the context of an uploaded image by prompting a GenAI LLM model, Hugging Face AI models together with Gemini API &amp; LangChain. Deployed on Streamlit & Hugging Space Cloud Separately.
+An AI-powered multimodal application that generates narrated short stories from uploaded images using Hugging Face models, Gemini and LangChain, transforming visual input into audio storytelling. Deployed independently on Streamlit.
 
 ## 📢Run App with Streamlit Cloud
 
