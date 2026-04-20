@@ -18,7 +18,7 @@ from gtts import gTTS
 # Load env
 load_dotenv(find_dotenv())
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-
+HUGGINGFACE_API_TOKEN = os.getenv("HUGGINGFACE_API_TOKEN")
 
 # ------------------ Progress Bar ------------------
 def progress_bar(amount_of_time: int) -> Any:
