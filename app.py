@@ -158,7 +158,7 @@ def main() -> None:
     st.header("PicToStory Converter")
 
     uploaded_file = st.file_uploader(
-        "Upload an image", type=["jpg", "jpeg", "png"]
+        "Upload your image here 👇", type=["jpg", "jpeg", "png"]
     )
 
     if uploaded_file is not None:
