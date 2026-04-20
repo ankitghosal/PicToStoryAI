@@ -7,3 +7,7 @@ langchain-google-genai
 python-dotenv
 requests
 streamlit
+python-dotenv
+torchvision
+Pillow
+gTTS
